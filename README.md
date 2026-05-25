@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 This project focuses on analyzing sales performance using Power BI to generate meaningful business insights and interactive visualizations. The dashboard helps track sales trends, profit distribution, customer behavior, and regional performance for better decision-making.
 
+## 🚀 Power BI Live Report
+
+🔗 Live Dashboard Link:  
+[Sales Dashboard - Power BI](https://app.powerbi.com/groups/me/reports/2d7e9981-25ff-480b-a5d3-1b57c32a1e8f/4ff8f6961f8963f6fc87?experience=power-bi)
+
 ## 🛠️ Tools Used
 - Power BI
 - SQL
